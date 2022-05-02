@@ -1,17 +1,9 @@
-type ButtonProps = {
-  text: string;
-};
-function Button({ text }: ButtonProps) {
-  return <button>{text}</button>;
-}
+import { Widget } from "./components/Widget";
 
-function App() {
+export function App() {
   return (
     <>
-      <Button text="Comprar" />
-      <Button text="Enviar" />
+      <Widget />
     </>
   );
 }
-
-export default App;
