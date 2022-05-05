@@ -1,7 +1,7 @@
 It's a Feedback Widget build in NLW Return
 
 <h1 align="center">
-  FeedGet 🚚
+  FeedGet 🤔
 </h1>
 
 <p align="center">
@@ -21,16 +21,20 @@ It's a Feedback Widget build in NLW Return
 
 This project was developed with the following technologies:
 
+- React
 - NodeJS
-- JWT
+- Jest
 - Typescript
-- Bcrypt
 - Express
-- Express Async Errors
+- Prisma
+- SQLite
+- Html2Canvas
+- TailwindCss
+- Phosphor React - (Icons Library)
 
 ## 💻 Project
 
-Delivery Home is a app of delivery, where anyone can register, to earn extra income as a driver or for those who need their order to be picked up.
+Fideget is a Widget of feedback, where anyone can send a feedback, like report a bug, idea, or any suggestion and screenshot of you website.
 
 ## How to use?
 
