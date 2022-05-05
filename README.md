@@ -34,7 +34,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-Fideget is a Widget of feedback, where anyone can send a feedback, like report a bug, idea, or any suggestion and screenshot of you website.
+Feedeget is a Widget of feedback, where anyone can send a feedback, like report a bug, idea, or any suggestion and screenshot of you website.
 
 ## How to use?
 
